@@ -870,14 +870,14 @@ function getDaily(numDays = 3, emojis) {
 			getEmoji(emojis,'Graphite') + ' x 800'
 		]
 		: [
-			'80 circuits',
-			'200 lamps',
-			'800 batteries',
-			'1500 gold bars',
-			'1 million coins',
-			'3000 amber insulation',
-			'550 insulated wire',
-			'800 graphite'
+			'80 Circuits',
+			'200 Lamps',
+			'800 Batteries',
+			'1500 Gold Bars',
+			'1 Million Coins',
+			'3000 Amber Insulation',
+			'550 Insulated Wire',
+			'800 Graphite'
 		]),
 		len = quests.length,
 		alaska = new Date(new Date().toLocaleString("en-US", {timeZone: 'America/Los_Angeles'})),
